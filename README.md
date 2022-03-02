@@ -1,7 +1,6 @@
 # Encrypted-Messaging (server-and-clients)
 
-C program for Asymetric encryption
-A server and many clients.
+C program for Asymetric encryption, one server and many clients.
 
 
 for server
